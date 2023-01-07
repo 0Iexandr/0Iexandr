@@ -1,5 +1,5 @@
+![Web-developer](personal-card.jpg)
 
-    
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Oleksandr a Full Stack Developer from Ukraine.
